@@ -1,6 +1,5 @@
 import React from 'react'
 import Layout from './Layout'
-import Link from 'next/link'
 import { motion } from 'framer-motion'
 import { GithubIcon, LinkedInIcon } from './Icons'
 
@@ -25,7 +24,7 @@ export const Footer = () => {
         
          {/* Create one for Pacman and 3D Portfolio // https://react-svgr.com/playground/ */}
         </div>
-        <Link href="/">Jin Rentsendorj</Link>
+        <h1>Jin Rentsendorj</h1>
       </Layout>
     </footer>
   )

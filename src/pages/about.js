@@ -31,9 +31,9 @@ const about = () => {
                 <h2 className='mb-4 text-lg font-bold uppercase text-light/75'>
                   Biography
                 </h2>
-                <p className=' mb-4 text-2xl font-bold'>Im Jin, a passionate UI/UX developer and U.S. Army Veteran
-                  with technical expertise in modern web technologies to inlcude but not limited too Next.JS, TailwindCSS and Three.JS. Furthermore, 
-                  I have experience in building full stack applications with Java and Python.
+                <p className=' mb-4 text-2xl font-bold'>Im Jin, UI/UX developer and U.S. Army Veteran
+                  with technical expertise in modern web technologies such as Next.JS, TailwindCSS and Three.JS. 
+                  Experience in building full stack applications with Java and Python.
                 </p>
                 <p className=' my-4 text-2xl font-bold'>I've optimized hospital software infrastructure for the Veteran's Administration, 
                   gaining valuable insights into large-scale solutions. Front-end development is my true passion, and I enjoy crafting 
