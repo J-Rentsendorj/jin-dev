@@ -14,7 +14,7 @@ export default function Home() {
             >
                 <source src="/images/nomads.mp4" type="video/mp4"/> 
             </video>
-            <div className="z-10 text-center">
+            <div className="z-0 text-center">
                 <h1 className=" text-white !text-7xl sm:mb-8 sm:!text-6xl xs:!text-4xl">BALJINNYAM &nbsp; RENTSENDORJ</h1>
             </div>
         </div>
