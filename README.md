@@ -6,4 +6,4 @@ Technologies: Next.JS and Tailwind CSS
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 
-### https://program-and-control.vercel.app/
+### [https://program-and-control.vercel.app/](https://jin-dev.vercel.app/)
