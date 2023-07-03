@@ -7,4 +7,4 @@ not a complete project but check it out, I hope you enjoy
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 
-### https://jin-dev.vercel.app/
+### https://jin-next-project.vercel.app/
